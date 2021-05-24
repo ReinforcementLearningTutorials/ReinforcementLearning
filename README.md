@@ -1,1 +1,3 @@
 # ValueIteration
+
+![](Figures/ValueIteration.png)
