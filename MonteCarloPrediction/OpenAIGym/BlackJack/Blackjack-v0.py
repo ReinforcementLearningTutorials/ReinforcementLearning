@@ -16,6 +16,8 @@ alpha = 0.01
 # Initialize the environment
 env = gym.make('Blackjack-v0')
 
+# Todo - find optimal policy
+
 # Initialize the value of each state to be 0
 # Player gets 12-21
 V = { }
